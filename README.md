@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Borep1945 — Engineering intelligent software" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="CoreVail — Engineering intelligent software" width="100%"></p>
 
 <p align="center"><a href="https://borep1945.github.io/portfolio/">Portfolio</a> · <a href="https://github.com/Borep1945?tab=repositories">Repositories</a> · <a href="https://github.com/Borep1945?tab=overview">GitHub activity</a></p>
 
