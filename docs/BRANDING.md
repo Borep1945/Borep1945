@@ -4,7 +4,7 @@
 
 Modern Dark Developer Portfolio: #0a0f18 graphite, #55dbe4 cyan, #7495ff blue, restrained violet in the original raster avatar. A large circuit-core symbol remains legible at 64px; a separate SVG variant uses the same visual idea. The SVG is a clean alternate mark, not a vector trace of the raster.
 
-Current account username is retained: **Borep1945**. Display name proposal: **Software Engineer | AI & Systems**. Bio: **Building Python tools, C libraries, AI agent systems and native macOS apps.** The name is proposed for review; no identity claim or employment history is invented.
+The user approved the account rename: **corevail**. Display name: **CoreVail**. The original avatar is installed. Bio: **Building Python tools, C libraries, AI agent systems and native macOS apps.** The account branding is applied; no employment history is invented.
 
 ## Username candidates
 
@@ -43,7 +43,7 @@ Live authenticated GitHub users API checks on 2026-10-09. A 404 confirms that no
 | [zerovela](https://github.com/zerovela) | Занят: аккаунт найден |
 | [kernova](https://github.com/Kernova) | Занят: аккаунт найден |
 
-Recommended shortlist: **corevail** (short, systems emphasis), **stackvale** (broad software ecosystem), **arcquanta** (architecture and computational focus). All three returned 404 in the current check. No username was changed. The 30 checks provide alternatives to the originally requested minimum 15.
+Recommended shortlist: **corevail** (short, systems emphasis), **stackvale** (broad software ecosystem), **arcquanta** (architecture and computational focus). All three returned 404 in the current check. The user subsequently authorized and completed the rename to corevail. The 30 checks provide alternatives to the originally requested minimum 15.
 
 ## Assets
 
@@ -53,13 +53,13 @@ Recommended shortlist: **corevail** (short, systems emphasis), **stackvale** (br
 - `avatar-vector.svg`: alternate clean vector glyph.
 - `banner.svg`: original accessible SVG banner.
 
-## Install avatar and proposed display name
+## Applied avatar and display name
 
-Open [GitHub profile settings](https://github.com/settings/profile). Under Profile picture choose Edit → Upload a photo → select `avatar-github.png` → Save. If desired, set Name to the proposed display name. Username changes remain subject to explicit approval.
+The original `avatar-github.png` was uploaded and saved through GitHub in Safari. GitHub confirmed the profile-picture update. Display name is CoreVail and username is corevail. The user explicitly authorized the identity change.
 
 ## Pin the six projects
 
-On [Borep1945](https://github.com/Borep1945), select Customize your pins. Choose `agentkernel`, `corearena`, `fileforge`, `apiqueue`, `devscope`, `datacraft`; save. GitHub supports six pinned items. These steps are necessary because the available API tools do not expose a supported pinning mutation.
+On [Borep1945](https://github.com/corevail), select Customize your pins. Choose `agentkernel`, `corearena`, `fileforge`, `apiqueue`, `devscope`, `datacraft`; save. GitHub supports six pinned items. These steps are necessary because the available API tools do not expose a supported pinning mutation.
 
 ## Source observations
 
@@ -70,4 +70,4 @@ The design uses an editorial hierarchy, limited graphics, grouped technologies a
 - [Username changes and redirect limits](https://docs.github.com/en/account-and-profile/concepts/username-changes)
 - [Profile image requirements](https://github.com/github/docs/blob/main/content/account-and-profile/reference/profile-reference.md)
 
-Renaming can affect profile links, existing references, verified commit identities and integrations; repository redirects have exceptions. Approve a concrete name before changing it and recheck the namespace at that time.
+Renaming can affect profile links, existing references, verified commit identities and integrations; repository redirects have exceptions. The concrete name corevail was approved by the user and accepted by the GitHub account form.
